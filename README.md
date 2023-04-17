@@ -8,7 +8,7 @@ Fast food meals typically contain an average of 537 calories, 229.5 units of cho
 
 McDonald's offers a fast food item with the highest calorie counts, which is a combination of 20 Buttermilk Crispy Chicken Tenders, 40 Chicken McNuggets, and 10 Sweet N' Spicy Honey BBQ Glazed Tenders.
 
-McDonald's also has the highest sugar content in their fast food item, the 10 piece Sweet N' Spicy Honey BBQ Glazed Tenders, with an average of 87 grams per serving.
+The fast food item with the highest sugar content in McDonald's menu is the 10 piece Sweet N' Spicy Honey BBQ Glazed Tenders, with an average of 87 grams per serving.
 
 Subway restaurant offers the highest fiber content in their Footlong Meatball Marinara, highest vitamin C content in their Footlong Turkey & Bacon Avocado, and has the most number of fast food items served with a total of 96.
 
@@ -17,5 +17,4 @@ The fast food item with the highest amount of vitamin A is the Premium Asian Sal
 McDonald's, Sonic, and Taco Bell are the top three restaurant chains with the highest average calorie count per meal.
 
 # Conclusion
-The analysis indicates that fast food meals have the potential to be high in calories, cholesterol, and sugar, but certain menu items like Footlong Meatball Marinara, Footlong Turkey & Bacon Avocado, and Premium Asian Salad without Chicken may offer more nutritional benefits, including higher fiber and vitamin content. 
-It's crucial for customers to consider the nutritional details and make informed decisions when choosing fast food options.
+The findings of the analysis suggest that while fast food meals can be high in calories, cholesterol, and sugar, specific items on the menu such as Footlong Meatball Marinara, Footlong Turkey & Bacon Avocado, and Premium Asian Salad without Chicken may provide more nutritional value, such as increased fiber and vitamin content. Therefore, it is important for consumers to take into account the nutritional information and make informed choices when selecting fast food options.
